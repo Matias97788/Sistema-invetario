@@ -1,0 +1,2 @@
+# Sistema-invetario
+Desarrollo minimo
